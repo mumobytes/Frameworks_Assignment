@@ -1,10 +1,10 @@
 COVID-19 Data Explorer
 
-This #project explores the COVID-19 metadata dataset, which contains information about COVID-19 research papers. It walks through the full data science workflow:
+This project explores the COVID-19 metadata dataset, which contains information about COVID-19 research papers. It walks through the full data science workflow:
 
  Features
 
-#Data Exploration
+Data Exploration
 
 Preview dataset structure (titles, abstracts, journals, publication dates).
 
