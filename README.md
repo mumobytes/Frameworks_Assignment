@@ -1,8 +1,8 @@
-##COVID-19 Data Explorer
+COVID-19 Data Explorer
 
 This #project explores the COVID-19 metadata dataset, which contains information about COVID-19 research papers. It walks through the full data science workflow:
 
-##🔹 Features
+ Features
 
 #Data Exploration
 
@@ -12,7 +12,7 @@ Check dimensions, data types, missing values.
 
 Generate descriptive statistics.
 
-#Data Cleaning & Preparation
+Data Cleaning & Preparation
 
 Handle missing data in titles, abstracts, and journals.
 
@@ -22,7 +22,7 @@ Extract publication year for trend analysis.
 
 Create derived features such as abstract word count.
 
-#Data Analysis & Visualization
+Data Analysis & Visualization
 
 Number of publications per year.
 
@@ -32,7 +32,7 @@ Word cloud of paper titles.
 
 Distribution of papers by source.
 
-#Interactive Streamlit Application
+Interactive Streamlit Application
 
 Filter papers by year range.
 
